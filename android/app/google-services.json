@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553115827063",
+    "project_id": "json-learn-dadae",
+    "storage_bucket": "json-learn-dadae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553115827063:android:2cac61dbabc11bc60cbf72",
+        "android_client_info": {
+          "package_name": "com.example.json_learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553115827063-vqkipm01ae134b46m0k072mrf7m1agt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn4Gk0a5wHTq9fGqMWMUPv_egL2wfpK8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553115827063-vqkipm01ae134b46m0k072mrf7m1agt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

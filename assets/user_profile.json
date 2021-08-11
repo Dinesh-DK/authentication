@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "name": "dinesh",
+        "age": 23,
+        "profile": {
+            "designation": "software engineer",
+            "role": "developer"
+        }
+    }
+]
